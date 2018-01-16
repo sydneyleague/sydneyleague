@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://sydneyleague.github.io" resolutions="1x" timestamp="1514186860729">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://sydneyleague.github.io" resolutions="1x" timestamp="1516085439610">
   <folder name="css">
-    <file name="site_global.css" crc="3960805582"/>
-    <file name="index.css" crc="46903030" ref="index"/>
+    <file name="site_global.css" crc="4210251999"/>
+    <file name="index.css" crc="314601108" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="larish_alte_semibold.woff" crc="252438254"/>
@@ -27,5 +27,5 @@
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="sl-dp.png" crc="67251164" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="446896503" seo="true" mt="1514186832221" redirect="true"/>
+  <file name="index.html" crc="3789338390" seo="true" mt="1516085397390" redirect="true"/>
 </manifest>
